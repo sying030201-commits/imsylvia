@@ -759,7 +759,7 @@ const CTA = () => {
             <div className="relative">
               <div className="absolute -inset-4 bg-brand-blue/5 rounded-[60px] blur-2xl" />
               <img 
-                src="/me.JPG" 
+                src="/me.jpg" 
                 alt="Sylvia" 
                 className="relative w-full rounded-[40px] shadow-xl object-contain"
                 referrerPolicy="no-referrer"
